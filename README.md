@@ -7,9 +7,9 @@ Follow the steps below to make use of Emdees.
 &nbsp;
 
 1. Clone this repository:  
-    ```bash
-    git clone https://github.com/Airscripts/emdees.git
-    ```
+```bash
+git clone https://github.com/Airscripts/emdees.git
+```
 &nbsp;
 
 ## 🤝 Contributing  
