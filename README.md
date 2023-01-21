@@ -27,5 +27,5 @@ Thank you so much, it means a lot for me!
 &nbsp;  
 
 ## 💳 License  
-This repository is licensed under [MIT License](https://github.com/Airscripts/emdees/blog/main/LICENSE).  
+This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/emdees/blog/main/LICENSE).  
 &nbsp;
