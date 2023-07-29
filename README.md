@@ -28,12 +28,18 @@ Here you can list some useful resources about this project:
 Contributions and suggestions about how to improve this project are welcome!
 
 ## Support
-If you want to support my work you can do it with the links below.
-
+If you want to support my work you can do it following me, leaving a star, sharing my projects or also with the links below.  
 Choose what you find more suitable for you:  
-- [Support me on GitHub](https://github.com/sponsors/Airscripts)
-- [Support me via ko-fi](https://ko-fi.com/airscript)
-- [Support me via linktr.ee](https://linktr.ee/airscript)
+
+<a href="https://sponsor.airscript.it" target="blank">
+  <img src="./assets/images/github-sponsors.svg" alt="GitHub Sponsors" width="30px" />
+</a>&nbsp;
+<a href="https://kofi.airscript.it" target="blank">
+  <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
+</a>&nbsp;
+<a href="https://linktree.airscript.it" target="blank">
+  <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
+</a>
 
 *As of my personal preference, I'do go with GitHub Sponsors.*
 
