@@ -1,7 +1,15 @@
-# 🪶 Emdees
+# Emdees
 A collection of useful files for new repository's scaffolding.
 
-## 📦 Install
+## Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Resources](#resources)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+
+## Installing
 Follow the steps below to make use of Emdees.
 
 1. Clone this repository:
@@ -9,10 +17,17 @@ Follow the steps below to make use of Emdees.
 git clone https://github.com/Airscripts/emdees.git
 ```
 
-## 🤝 Contribute
+## Usage
+In order to use this project, just click the use as template in the repository's page.
+
+## Resources
+Here you can list some useful resources about this project:
+- [GitHub Page](https://ghio.airscript.it/emdees): project's GitHub page.
+
+## Contributing
 Contributions and suggestions about how to improve this project are welcome!
 
-## 💚 Support
+## Support
 If you want to support my work you can do it with the links below.
 
 Choose what you find more suitable for you:  
@@ -20,5 +35,7 @@ Choose what you find more suitable for you:
 - [Support me via ko-fi](https://ko-fi.com/airscript)
 - [Support me via linktr.ee](https://linktr.ee/airscript)
 
-## 💳 License  
+*As of my personal preference, I'do go with GitHub Sponsors.*
+
+## License  
 This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/emdees/blob/main/LICENSE).
