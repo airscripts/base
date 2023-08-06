@@ -37,9 +37,6 @@ Choose what you find more suitable for you:
 <a href="https://kofi.airscript.it" target="blank">
   <img src="./assets/images/kofi.svg" alt="Kofi" width="30px" />
 </a>&nbsp;
-<a href="https://linktree.airscript.it" target="blank">
-  <img src="./assets/images/linktree.svg" alt="Linktree" width="30px" />
-</a>
 
 *As of my personal preference, I'do go with GitHub Sponsors.*
 
