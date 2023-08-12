@@ -26,6 +26,7 @@ Here you can list some useful resources about this project:
 
 ## Contributing
 Contributions and suggestions about how to improve this project are welcome!
+Please follow [our contribution guidelines](https://github.com/airscripts/emdees/blob/main/CONTRIBUTING.md).
 
 ## Support
 If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
