@@ -12,7 +12,7 @@ A collection of useful files for new repository's scaffolding.
 ## Installing
 Follow the steps below to make use of Emdees.
 
-1. Clone this repository:
+Clone this repository:
 ```bash
 git clone https://github.com/Airscripts/emdees.git
 ```
