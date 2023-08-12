@@ -9,7 +9,7 @@ Collection of useful files for new repository's scaffolding.
 - [Support](#support)
 - [License](#license)
 
-## Installing
+## Installation
 Follow the steps below to make use of Emdees.
 
 Clone this repository:
