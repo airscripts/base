@@ -28,7 +28,7 @@ Here you can list some useful resources about this project:
 Contributions and suggestions about how to improve this project are welcome!
 
 ## Support
-If you want to support my work you can do it following me, leaving a star, sharing my projects or also with the links below.  
+If you want to support my work you can do it by following me, leaving a star, sharing my projects or also donating at the links below.  
 Choose what you find more suitable for you:  
 
 <a href="https://sponsor.airscript.it" target="blank">
@@ -36,9 +36,7 @@ Choose what you find more suitable for you:
 </a>&nbsp;
 <a href="https://kofi.airscript.it" target="blank">
   <img src="https://raw.githubusercontent.com/airscripts/assets/main/images/kofi.svg" alt="Kofi" width="30px" />
-</a>&nbsp;
-
-*As of my personal preference, I'do go with GitHub Sponsors.*
+</a>
 
 ## License  
 This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/emdees/blob/main/LICENSE).
