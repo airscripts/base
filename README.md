@@ -1,5 +1,5 @@
 # Emdees
-A collection of useful files for new repository's scaffolding.
+Collection of useful files for new repository's scaffolding.
 
 ## Contents
 - [Installation](#installation)
