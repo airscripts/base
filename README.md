@@ -14,7 +14,7 @@ Follow the steps below to make use of Emdees.
 
 Clone this repository:
 ```bash
-git clone https://github.com/Airscripts/emdees.git
+git clone https://github.com/airscripts/emdees.git
 ```
 
 ## Usage
@@ -39,4 +39,4 @@ Choose what you find more suitable for you:
 </a>
 
 ## License  
-This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/emdees/blob/main/LICENSE).
+This repository is licensed under [GPL-3.0 License](https://github.com/airscripts/emdees/blob/main/LICENSE).
