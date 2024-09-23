@@ -1,7 +1,7 @@
 # Base
 Collection of useful files for new repository's scaffolding.
 
-## Contents
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Resources](#resources)
