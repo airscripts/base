@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 * feat: add more issue templates
 * refactor: edit pull request template
 
+**Full Changelog**: https://github.com/airscripts/base/compare/1.1.0...1.2.0
+
 # 1.1.0
 
 ## What's Changed
