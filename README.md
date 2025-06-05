@@ -10,7 +10,7 @@ Collection of useful files for new repository's scaffolding.
 - [License](#license)
 
 ## Installation
-Follow the steps below to make use of Emdees.
+Follow the steps below to make use of Base.
 
 Clone this repository:
 ```bash

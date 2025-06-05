@@ -1,22 +1,28 @@
 # Pull Request
-Compile all the information written below to send a legitimate pull request to the repository!
+
+Please fill out the details below to submit your pull request.
 
 ## Label:
 
-### This PR is labeled as:
-*Choose only one and remember to select the label even on the right.*
+- **Choose one label for your PR:**
+  - [ ] **Feature**
+  - [ ] **Bug**
+  - [ ] **Documentation**
+  - [ ] **Styling**
+  - [ ] **Refactor**
+  - [ ] **Performance**
+  - [ ] **Tests**
+  - [ ] **Chore**
+  - [ ] **Build**
+  - [ ] **CI**
 
-- [ ] Feature
-- [ ] Bug
-- [ ] Other
+## Linked Issues:
 
-## Linked Issue
+- **This PR closes the following issue(s):**
+  - Closes #<issue-number>
+  - (Add any other related issues here)
 
-### This PR has the following linked issues:
-- Closes #;
-- ...
+## Solution:
 
-## Solution
-
-### My solution is explained as follows:
-Write your solution here...
+- **Describe the solution:**
+  - Briefly explain what you've done and how it addresses the issue.
